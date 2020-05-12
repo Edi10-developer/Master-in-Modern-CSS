@@ -1,0 +1,38 @@
+body{
+    background-color: #ccc;
+    /*
+    background-image: url(img/pattern.jpg);
+    background-repeat: repeat;
+    background-size:  100%;
+    background-attachment: fixed;
+    background-position: left bottom;
+    color: white;
+    */
+
+    color: black;
+    text-align: justify;
+    text-indent: 100px;
+    
+    /*
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    */
+}
+
+#caja {
+    border: 5px solid black;
+    padding: 10px;
+    background-color: rgb(194, 74, 74); 
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 30px;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    vertical-align: top;
+}
+
+h2 {
+    color: red;
+    background: white;
+}
